@@ -30,3 +30,6 @@ use ```db``` command to call its functions
     db expel <username> <title>         //expel given task
     db display -m                       //display MAP TABLE
     db drop -m                         //drop MAP TABLE
+
+##### help
+    db --help
