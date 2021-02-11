@@ -1,0 +1,12 @@
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\TaskManager.exe.config
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\TaskManager.exe
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\TaskManager.pdb
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\EntityFramework.dll
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\EntityFramework.xml
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\obj\Debug\TaskManager.exe
+E:\git\IVS-Internship\C#\001 - SQL\TaskManager\obj\Debug\TaskManager.pdb
