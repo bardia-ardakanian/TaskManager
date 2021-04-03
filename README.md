@@ -2,7 +2,7 @@
 Simple Task Manager Using SQL Server EF Core
 
 ## Description
-Task Manager Console Application which uses Entity Framework and Microsoft SQL Management Studio to performe a simple task managing.
+Task Manager Console Application which uses Entity Framework and Microsoft SQL Management Studio to performe task managing.
 
 ## Installation
 ```git clone https://github.com/bardia-ardakanian/TaskManager.git```
