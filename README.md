@@ -2,9 +2,7 @@
 Simple Task Manager Using SQL Server EF Core
 
 ## Description
-Task Manager Console Application which uses Entity Framework and Microsoft SQL Management Studio to store users, tasks and map assigned tasks.
-The database has 3 Tables: ```USER```, ```TASK```, ```MAP```.
-```MAP``` Table assign ```USERS``` to ```TASKS```.
+Task Manager Console Application which uses Entity Framework and Microsoft SQL Management Studio to performe a simple task managing.
 
 ## Installation
 ```git clone https://github.com/bardia-ardakanian/TaskManager.git```
